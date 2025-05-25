@@ -1,0 +1,13 @@
+
+Copyright © 2024 Martin Bradford Hovsepian Jr. — All rights reserved.
+
+This repository and its contents are shared for public timestamping, research interest, and formal collaboration opportunities only.
+
+No redistribution, reproduction, commercial deployment, or derivative work may be created from the included files — including diagrams, documentation, or symbolic programs — without explicit written permission from the inventor.
+
+The NRMLC (Nesting Recursive Model Logic Computer) system, including all core logic, processor architecture, symbolic memory design, instruction set, and agent runtime, is the intellectual property of Martin Bradford Hovsepian Jr.
+
+Contact for licensing, partnership, or formal access under NDA:
+nestingrealmsmodel@gmail.com
+
+This LICENSE applies only to the visible public contents of this repository.
