@@ -1,0 +1,16 @@
+# ΦPROGRAM: AgentCore
+# VERSION: Φ1.0
+# DESCRIPTION: Symbolic agent that evaluates signal strength and sets a goal if strong enough. Retries if not.
+
+ΦFUNC AgentCycle Target Threshold Δs Δτ
+  CALL Evaluate Target Threshold
+  IF mem.result.signal < 1 THEN
+    CALL Adapt Target Δs Δτ
+  ELSE
+    SETMEM goal 1 0.0 1.0
+  ENDIF
+ENDFUNC
+
+SETMEM Energy 2 0.5 0.9
+CALL AgentCycle Energy 5 1 0.2
+READMEM goal
