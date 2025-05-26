@@ -33,7 +33,7 @@ NRMLC is designed to operate in tandem with the **ULTRACORE-SPU**, a symbolic pr
 - Geometric phase-state signaling instead of charge transport
 
 See the full ULTRACORE-SPU architecture:  
-→ [Ai-Superconductivity-Recursive-Compute](https://github.com/NRMLC-Hub/Ai-Superconductivity-Recursive-Compute)]
+→ https://github.com/NRMLC-Hub/Ai-Superconductivity-Recursive-Compute-
 
 ---
 
